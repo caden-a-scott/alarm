@@ -10,7 +10,7 @@ import datetime
 
 # Constants
 LED_COUNT = 10
-B = 20
+B = 200
 
 # Colors
 OFF = [0,0,0]
